@@ -1,0 +1,134 @@
+# Translation of tiledmenu in LANGUAGE
+# Copyright (C) Kpple 2020
+# This file is distributed under the same license as the Kpple Menu package.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KppleMenu \n"
+"Report-Msgid-Bugs-To: https://github.com/kppleos/org.kpple.kppleMenu\n"
+"POT-Creation-Date: YY-MM-DD\n"
+"PO-Revision-Date: YY-MM-DD\n"
+"Last-Translator: AUTHOR <author@email>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../contents/ui/main.qml
+msgid "Bu Bilgisayar Hakkında"
+msgstr "" 
+
+#: ../contents/ui/main.qml
+msgid "Sistem Tercihleri..."
+msgstr "" 
+
+#: ../contents/ui/main.qml
+msgid "Yazılımlar..."
+msgstr "" 
+
+#: ../contents/ui/main.qml
+msgid "Zorla Kapat..."
+msgstr "" 
+
+#: ../contents/ui/main.qml
+msgid "Uyku"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "Yeniden Başlat..."
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "Kapat..."
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "Giriş Ekranı"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "Oturumu Kapat"
+msgstr ""
+
+#: ../contents/config/config.qml
+msgid "Gelişmiş"
+msgstr ""
+
+#: ../contents/config/config.qml
+msgid "Yardım"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Adapt the links with your own command lines"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "( Warning : This is the expert mode, do not change anything if the application is working properly. )"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show advanced mode"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Bu Bilgisayar Hakkında :"
+msgstr "" 
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Sistem Tercihleri :"
+msgstr "" 
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "App Store :"
+msgstr "" 
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Zorla Kapat :"
+msgstr "" 
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Uyku :"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Yeniden Başlat :"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Kapat :"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Giriş Ekranı :"
+msgstr ""
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Oturumu Kapat :"
+msgstr ""
+
+#: ../contents/ui/config/configHelp.qml
+msgid "Do you need help ?"
+msgstr ""
+
+#: ../contents/ui/config/configHelp.qml
+msgid "About Kpple"
+msgstr ""
+
+#: ../contents/ui/config/configHelp.qml
+msgid "Consult the user's guide"
+msgstr ""
+
+#: ../contents/ui/config/configHelp.qml
+msgid "Repport a bug"
+msgstr ""
+
+#: ../contents/ui/config/configHelp.qml
+msgid "Donate for the project"
+msgstr ""
+
+#: ../contents/ui/config/configHelp.qml
+msgid "Couldn't find help ? Contact us at : info.kpple@gmail.com"
+msgstr ""
+
+ 
